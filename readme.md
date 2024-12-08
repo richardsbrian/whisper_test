@@ -1,7 +1,7 @@
 1. **Clone the Repository**  
    Clone this repository to your local machine using the following command:  
    ```bash
-   git clone <repository-url>
+   git clone <[https://github.com/richardsbrian/whisper_test]>
 
 2. **Create a Python Environment**  
    Ensure you have Python 3.12.7 installed and create a virtual environment for your project.
