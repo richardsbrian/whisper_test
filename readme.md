@@ -14,3 +14,5 @@
    Run the following command to install all required dependencies:  
    ```bash
    pip install -r requirements.txt
+   
+5. **Run Main.py**  
